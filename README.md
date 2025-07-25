@@ -1,6 +1,5 @@
 # Jarvis-CV: A Voice-Controlled Personal Assistant with Vision 🌐🎙️👁️
 
-![Streamlit](https://img.shields.io/badge/Streamlit-App-orange?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-blue)
 ![SpeechRecognition](https://img.shields.io/badge/Voice-Controlled-success)
