@@ -70,17 +70,21 @@
 
 import os
 import requests
+import openai
 
+from dotenv import load_dotenv
+load_dotenv()  
 
-# GROQ_API_KEY = "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"
+openai.api_key = os.getenv("GROQ_API_KEY")  
+openai.api_base = "https://api.groq.com/openai/v1"
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+print("GROQ_API_KEY:", os.getenv("GROQ_API_KEY"))
 
 GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama3-70b-8192"  # Latest supported one (Mixtral is deprecated)
 
 HEADERS = {
-    "Authorization": f"Bearer {GROQ_API_KEY}",
+    "Authorization": f"Bearer {openai.api_key}",
     "Content-Type": "application/json"
 }
 
