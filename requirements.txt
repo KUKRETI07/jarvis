@@ -1,0 +1,8 @@
+PIL 
+tempfile
+streamlit
+openai
+speechrecognition
+pyaudio
+pyttsx3
+python-dotenv
