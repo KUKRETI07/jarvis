@@ -1,11 +1,9 @@
-streamlit
+gradio
 openai
-speechrecognition
-pyttsx3==2.90
-pyaudio
-python-dotenv
-transformers
 torch
-requests
-Pillow
+transformers
+pillow
+speechrecognition
+python-dotenv
+
 
