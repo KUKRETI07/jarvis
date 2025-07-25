@@ -1,11 +1,11 @@
-Pillow
 streamlit
 openai
-SpeechRecognition
+speechrecognition
+pyttsx3==2.90
 pyaudio
-pyttsx3
 python-dotenv
 transformers
 torch
 requests
+Pillow
 
