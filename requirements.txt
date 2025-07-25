@@ -6,3 +6,6 @@ speechrecognition
 pyaudio
 pyttsx3
 python-dotenv
+transformers
+torch
+requests
