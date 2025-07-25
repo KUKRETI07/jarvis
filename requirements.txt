@@ -1,11 +1,11 @@
-PIL 
-tempfile
+Pillow
 streamlit
 openai
-speechrecognition
+SpeechRecognition
 pyaudio
 pyttsx3
 python-dotenv
 transformers
 torch
 requests
+
