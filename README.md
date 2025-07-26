@@ -9,7 +9,7 @@
 
 ## 🚀 Project Overview
 
-**Jarvis-CV** is an intelligent, voice-based personal assistant that responds to your spoken queries and commands. Powered by **NLP**, **TTS**, **speech recognition**, and **computer vision**
+**Jarvis-CV** is an intelligent computer vision, voice-based personal assistant that responds to your spoken queries and detect object from the camera and tell you about that object , it can operate from you command and work like jarvis (you saw in marvel movies) . Powered by **NLP**, **TTS**, **speech recognition**, and **computer vision**
 
 You can ask it anything—from your current location, weather, or time—to performing tasks like opening a website, searching Wikipedia, or identifying objects using your webcam.
 
