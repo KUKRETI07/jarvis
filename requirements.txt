@@ -1,9 +1,7 @@
-gradio
-openai
-torch
-transformers
-pillow
-speechrecognition
+streamlit
+ultralytics
+opencv-python
+Pillow
 python-dotenv
-
-
+openai
+requests
