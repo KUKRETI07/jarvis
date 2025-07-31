@@ -1,11 +1,6 @@
 streamlit
+cohere
 ultralytics
 opencv-python
-Pillow
 python-dotenv
-openai
-requests
-
-
-
-
+Pillow
