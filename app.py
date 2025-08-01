@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 from dotenv import load_dotenv
 from ultralytics import YOLO
-from nlp import process_command
+from utils.nlp import process_command
 
 load_dotenv()
 
