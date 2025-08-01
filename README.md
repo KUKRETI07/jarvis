@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 Project Overview
+App link:  https://jarvis-2efg6knbpxbh6fes6gudef.streamlit.app/ 
 
 **Jarvis-CV** is an intelligent computer vision, voice-based personal assistant that responds to your spoken queries and detect object from the camera and tell you about that object , you can operate it from you command and it will work like real jarvis (you saw in marvel movies) . Powered by **NLP**, **TTS**, **speech recognition**, and **computer vision**
 
