@@ -4,3 +4,4 @@ ultralytics
 opencv-python-headless
 python-dotenv
 Pillow
+groq
