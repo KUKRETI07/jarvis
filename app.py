@@ -1,5 +1,8 @@
 import os
-import cv2
+try:
+    import cv2
+except ImportError:
+    st.error("❌ OpenCV (cv2) could not be imported. Check your dependencies.")
 import streamlit as st
 import numpy as np
 from PIL import Image
