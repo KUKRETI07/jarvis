@@ -1,7 +1,7 @@
 streamlit
 cohere
 ultralytics
-opencv-python
+opencv-python-headless
 python-dotenv
 Pillow
 groq
