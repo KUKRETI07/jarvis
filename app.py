@@ -1,14 +1,15 @@
 import os
-try:
-    import cv2
-except ImportError:
-    st.error("❌ OpenCV (cv2) could not be imported. Check your dependencies.")
 import streamlit as st
 import numpy as np
 from PIL import Image
 from dotenv import load_dotenv
 from ultralytics import YOLO
 from utils.nlp import process_command
+
+try:
+    import cv2
+except ImportError:
+    st.error("❌ OpenCV (cv2) could not be imported. Check your dependencies.")
 
 load_dotenv()
 
